@@ -32,7 +32,7 @@ function canvasApp() {
 
             //text = String.fromCharCode(Math.floor(Math.random()*(49-48+1)+48);
             //Use above to print 0 and 1 Matrix.                                                          
-            var randtxt = "01       ";
+            var randtxt = "01";
             //The more you use space the more //blank it looks.
             text = randtxt.charAt(Math.floor(Math.random() * randtxt.length));
 
