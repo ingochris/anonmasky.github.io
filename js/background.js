@@ -31,9 +31,9 @@ function canvasApp() {
         yPositions.map(function (y, index) {
 
             //text = String.fromCharCode(Math.floor(Math.random()*(49-48+1)+48);
-            //Use above to print 0 and 1 Matrix.                                                          
-            var randtxt = "01";
-            //The more you use space the more //blank it looks.
+            //Use above to print 0 and 1 Matrix from charmap.                                                          
+            
+            var randtxt = "神神秘人宇宙";
             text = randtxt.charAt(Math.floor(Math.random() * randtxt.length));
 
             x = (index * 10);
