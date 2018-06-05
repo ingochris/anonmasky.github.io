@@ -33,7 +33,7 @@ function canvasApp() {
             //text = String.fromCharCode(Math.floor(Math.random()*(49-48+1)+48);
             //Use above to print 0 and 1 Matrix from charmap.                                                          
             
-            var randtxt = "神神秘人宇宙";
+            var randtxt = "मदफक";
             text = randtxt.charAt(Math.floor(Math.random() * randtxt.length));
 
             x = (index * 10);
